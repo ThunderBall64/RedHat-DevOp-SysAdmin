@@ -1,0 +1,4 @@
+This is a basic text file
+This file will be analyzed by a script
+It will read line by line 
+Then process amount of memory text file used.
